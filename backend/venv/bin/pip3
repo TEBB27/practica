@@ -1,4 +1,4 @@
-#!/home/user/practica/backend/venv/bin/python
+#!/workspaces/practica/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
